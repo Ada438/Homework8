@@ -66,10 +66,9 @@ public class Main {
             }
         }
 
-        for (int i = 0; i < mass1.length; i++) {
-            System.out.print(mass1[i] + " ");
+        System.out.print(Arrays.toString(mass1));
 
-        }
+
     }
 }
 
